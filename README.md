@@ -5,9 +5,7 @@ Documentation by Orwa
 2.	relay_sketch.ino
 3.	relay.py
 ## Wiring Diagram
-
-
- 
+![alt text](wiringdiagram.png)
 ## Prerequisites (installation)
 1.	**PySerial** package. To install, type the following from the command prompt: “pip install pyserial”
 ## Usage instructions (as a library)
