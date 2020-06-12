@@ -10,8 +10,10 @@ Documentation by Orwa
 1.	**PySerial** package. To install, type the following from the command prompt: “pip install pyserial”
 ## Usage instructions (as a library)
 1.	Launch “idle” on windows
-2.	Type: “import os;print(os.getcwd())”
-
+2.  Type: “import os;print(os.getcwd())”
+    
+    ![code](pythoncode.png)
+    
 3.	Copy “relay.py” to subdirectory “Lib” within the folder above (displayed in idle in blue)
 4.	Now you can use the library using “import relay” then calling the following functions:
     - a.	**relay.turn_on()**: turns the relay on
